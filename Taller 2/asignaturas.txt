@@ -1,0 +1,2 @@
+1812,programacion,3,obligatoria,1,0
+1212,frances,2,opcional,12

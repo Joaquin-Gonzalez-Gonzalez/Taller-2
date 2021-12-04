@@ -1,0 +1,8 @@
+20.444.222-1,Juan.diaz@alumnos.ucn.cl,3,jd2000
+1
+1212,2.3
+0
+19.666.777-2,Rodrigo.rojas@alumnos.ucn.cl,3,rbcx123
+1
+1812,3.5
+0
